@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'DM Sans';
+  src:url(/src/fonts/DMSans-Regular.ttf)  format(truetype);/* Asegúrate de que esta ruta sea correcta */
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family:  DM Sans, sans-serif;
+  background-color: black;
+  color: black;
+  text-align: center;
+  margin-top: -24px;
+}
+
+
+.header h3 {
+  padding-top: 20px;
+  font-size: 1.5em;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.content {
+  display: flex; 
+  flex-direction: column; 
+  align-items: flex-start; 
+  position: relative;
+  top: 40%;
+  transform: translateY(-50%);
+  margin-left: 0; 
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 10px; 
+  margin-left: 50px; 
+}
+
+p {
+  margin-left: 150px; 
+  margin-bottom: 0px; 
+}
+
+
+.btn {
+  --color: #ffffff;
+  --color2: rgb(10, 25, 30);
+  padding: 0.8em 1.75em;
+  background-color: transparent;
+  border-radius: 6px;
+  border: .3px solid var(--color);
+  transition: .5s;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  z-index: 1;
+  font-weight: 300;
+  font-size: 17px;
+  font-family: DM Sans, sans-serif;
+  text-transform: uppercase;
+  color: var(--color);
+  margin-left: 300px;
+ }
+ 
+ .btn::after, .btn::before {
+  content: '';
+  display: block;
+  height: 100%;
+  width: 100%;
+  transform: skew(90deg) translate(-50%, -50%);
+  position: absolute;
+  inset: 50%;
+  left: 25%;
+  z-index: -1;
+  transition: .5s ease-out;
+  background-color: var(--color);
+ }
+ 
+ .btn::before {
+  top: -50%;
+  left: -25%;
+  transform: skew(90deg) rotate(180deg) translate(-50%, -50%);
+ }
+ 
+ .btn:hover::before {
+  transform: skew(45deg) rotate(180deg) translate(-50%, -50%);
+ }
+ 
+ .btn:hover::after {
+  transform: skew(45deg) translate(-50%, -50%);
+ }
+ 
+ .btn:hover {
+  color: var(--color2);
+ }
+ 
+ .btn:active {
+  filter: brightness(.7);
+  transform: scale(.98);
+ }
+ 
