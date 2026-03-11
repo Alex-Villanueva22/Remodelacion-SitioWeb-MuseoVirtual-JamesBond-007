@@ -4,27 +4,23 @@
 
 ---
 
+## 🎯 El Desafío
+Este proyecto surgió como respuesta a una plataforma existente con graves deficiencias de diseño:
+* **Problema:** Interfaz inentendible, navegación caótica y un consumo excesivo de memoria RAM.
+* **Objetivo:** Transformar la experiencia del usuario creando una interfaz **amigable, organizada y accesible** para todo tipo de público, optimizando el rendimiento del sitio.
+
 ## 🛠️ Tecnologías Utilizadas
-* **Lenguaje:** JavaScript (ES6+)
+* **Lenguaje:** JavaScript
 * **Framework/Librería:** React.js
-* **Estilos:** CSS3 (Custom Properties y Flexbox/Grid)
-* **Herramientas:** HTML5, Git, npm
+* **Estilos:** CSS3 (Diseño Responsivo)
+* **Estructura:** HTML5
 
 ## ✨ Características Principales
-* ✅ **Optimización de Memoria:** Reestructuración de la lógica del sitio para eliminar fugas de memoria y mejorar tiempos de carga.
-* ✅ **Diseño Centrado en el Usuario:** Implementación de una arquitectura de información clara para que el contenido sea fácil de encontrar.
-* ✅ **Accesibilidad:** Uso de etiquetas semánticas y contrastes adecuados para garantizar el acceso a todo tipo de usuarios.
-* ✅ **Interfaz Amigable:** Navegación renovada que refleja la estética sofisticada de la franquicia cinematográfica.
+* **Optimización de Recursos:** Reducción drástica en el uso de memoria mediante una arquitectura de componentes eficiente en React.
+* **Diseño Centrado en el Usuario:** Aplicación de principios de **Interacción Hombre-Computador (IHC)** para garantizar una navegación intuitiva.
+* **Accesibilidad:** Estructura pensada para ser funcional para usuarios con diversas habilidades.
+* **Interfaz Renovada:** Estética moderna y limpia que refleja la identidad visual de la franquicia James Bond.
 
-## 📸 Demostración
-[Aquí puedes insertar una imagen o un GIF de la aplicación funcionando]
-## 🚀 Instalación y Uso
-Para ejecutar este proyecto localmente, sigue estos pasos:
-
-1. Clonar el repositorio: `git clone https://github.com/tu-usuario/museo-007-james-bond.git`
-2. Instalar dependencias: `npm install`
-3. Ejecutar: `npm start`
-
-## 🎓 Contexto Académico
-Este proyecto fue desarrollado como parte del curso de **Interacción Hombre-Computador** en la universidad. 
-* **Reto principal:** Aplicar principios de usabilidad para rescatar un sitio web con diseño deficiente, priorizando la eficiencia del sistema y la facilidad de uso.
+## 📸 Vista Previa
+![Captura de pantalla del sitio](URL_DE_TU_IMAGEN_AQUÍ)
+*(Tip: Sube una imagen a tu repo y pon la ruta aquí)*
