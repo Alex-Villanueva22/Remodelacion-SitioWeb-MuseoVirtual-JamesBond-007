@@ -1,4 +1,4 @@
-# 🚀 Rediseño - Museo Virtual - James Bond 007 (Rediseño UX/UI)
+# 🚀 Museo Virtual - James Bond 007 (Rediseño UX/UI)
 
 > Proyecto de remodelación integral de un sitio web dedicado al agente 007, enfocado en mejorar la usabilidad, el rendimiento y la accesibilidad para brindar una experiencia en una experiencia fluida, entendible y moderna.
 
