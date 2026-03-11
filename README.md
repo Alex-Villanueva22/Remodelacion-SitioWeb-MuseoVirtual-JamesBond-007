@@ -1,6 +1,6 @@
 # 🚀 Rediseño - Museo Virtual - James Bond 007 (Rediseño UX/UI)
 
-> Remodelación integral de un sitio web legacy dedicado al agente 007, enfocada en transformar una interfaz inentendible y de alto consumo de recursos en una experiencia fluida, accesible y moderna.
+> Proyecto de remodelación integral de un sitio web dedicado al agente 007, enfocado en mejorar la usabilidad, el rendimiento y la accesibilidad para brindar una experiencia en una experiencia fluida, entendible y moderna.
 
 ---
 
