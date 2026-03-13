@@ -20,3 +20,6 @@ Este proyecto surgió como respuesta a una plataforma existente con graves defic
 * ✅ **Diseño Centrado en el Usuario:** Aplicación de principios de **Interacción Hombre-Computador (IHC)** para garantizar una navegación intuitiva.
 * ✅ **Accesibilidad:** Estructura pensada para ser funcional para usuarios con diversas habilidades.
 * ✅ **Interfaz Renovada:** Estética moderna y limpia que refleja la identidad visual de la franquicia James Bond.
+
+## 🎓 Contexto Académico
+Proyecto desarrollado para la asignatura de **Interacción Hombre-Computador**.
